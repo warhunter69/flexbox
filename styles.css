@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    height: 100vh;
+}
+.sidebar{
+    background-color: gray;
+    width: 30vw;
+}
+.content{
+    background-color: blanchedalmond;
+    width: 70vw;
+}
+body{
+    margin: 0px;
+}
